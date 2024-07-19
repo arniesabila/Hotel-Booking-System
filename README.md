@@ -7,7 +7,8 @@ Home Page
 ![HOMEPAGE3](https://github.com/user-attachments/assets/0a92007b-1a65-43dc-b09e-29e96b6a78ee)
 
 Customer Login Page
-![CUSTLOGIN](https://github.com/user-attachments/assets/3029708c-c7cb-4b3e-8091-465bfc149b64
+![CUSTLOGIN](https://github.com/user-attachments/assets/48d4bd4c-36b5-44e1-9929-35aa3755a06f)
+
 
 Customer User Profile
 ![USERPROFILE](https://github.com/user-attachments/assets/c3b6ea98-16dd-46fe-9471-4d494cd8731e)
